@@ -4,4 +4,4 @@ Cover image was created with Processing, using 500 images scraped from CAN’s 2
 
 Based on Dan Shiffman’s ‘Obamathon’ – source code and tutorial can be found [here](https://www.youtube.com/watch?v=nnlAH1zDBDE).
 
-[Final Image](/Final_Output/2019imagecover.jpg)
+![Final Image](/Final_Output/2019imagecover.jpg)
